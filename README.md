@@ -1,2 +1,1 @@
-"# php" 
-"# php desenvolvido por: L¡via Ribeiro Pessanha" 
+"# php desenvolvido por: Livia Ribeiro Pessanha" 
